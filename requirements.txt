@@ -1,0 +1,4 @@
+convolve @ git+ssh://git@github.com/converseon/convolve.git@v0.3.0
+torch>=0.4.1
+pandas
+json
